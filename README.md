@@ -1,1 +1,1 @@
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://github.com/thisisyanliu/tst_create_bucket/blob/main/resouce_manager/create_bucket.zip)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://github.com/thisisyanliu/tst_create_bucket/raw/main/resouce_manager/create_bucket.zip)
